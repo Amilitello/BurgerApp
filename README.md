@@ -1,1 +1,1 @@
-# BurgerApp
+# CatsApp
